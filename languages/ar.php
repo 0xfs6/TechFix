@@ -1,0 +1,21 @@
+<?php
+return [
+    'app_name' => 'ريبر شوب برو',
+    'dashboard' => 'لوحة التحكم',
+    'repairs' => 'الإصلاحات',
+    'invoices' => 'الفواتير',
+    'inventory' => 'المخزون',
+    'settings' => 'الإعدادات',
+    'users' => 'المستخدمين',
+    'reports' => 'التقارير',
+    'profile' => 'الملف الشخصي',
+    'logout' => 'تسجيل الخروج',
+    'main_menu' => 'القائمة الرئيسية',
+    'administration' => 'الإدارة',
+    'search' => 'بحث',
+    'clear' => 'مسح',
+    'save' => 'حفظ',
+    'cancel' => 'إلغاء',
+    'error' => 'خطأ',
+    'success' => 'نجاح',
+];
